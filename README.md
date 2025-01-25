@@ -16,16 +16,25 @@
 [linkedin]: www.linkedin.com/in/christopher-herrera-08ba44272
 
 
+<h2>🔭 I’m currently working on ...</h2>
+        <p>Expanding my expertise in the IT Industry and looking to break through into Cybersecurity.</p>
 
+<h2>🌱 I’m currently learning ...</h2>
+        <p>Strategic Management Stratagies, SCRUM Agile Development and Backend Development with Node.js</p>
 
-Here are some ideas to get you started:
+<h2>👯 I’m looking to collaborate on ...</h2>
+        <p>On pretty much anything that dives into networking/information security</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🤔 I’m looking for help with ...</h2>
+        <p>Enhancing my skills in cloud architecture and learning advanced design patterns for scalable applications.</p>
+<h2>💬 Ask me about ...</h2>
+        <p>Android app development, HTML/CSS/JS , .NET frameworks, or tips for balancing school and coding projects!</p>
+
+<h2>⚡ Fun fact:</h2>
+        <p>I have taken a tour at SpaceX and saw the falcon 9 spaceship in person!</p>
+    </div>
+<footer>
+        © 2025 Christopher Herrera | Built with ❤️ and HTML
+</footer>
+</body>
+</html>
