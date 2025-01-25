@@ -1,4 +1,4 @@
-<h1>Hi, I'm Christopher! <br/><a href="https://github.com/ChrisH914">Student</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Technology Enthusiast</a></h1>
+<h1>Hi, I'm Christopher! <br/><a href="https://github.com/ChrisH914">Student</a> and<a href="https://www.linkedin.com/in/joshmadakor/">Technology Enthusiast</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
