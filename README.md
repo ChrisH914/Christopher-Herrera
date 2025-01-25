@@ -8,14 +8,7 @@ christopher-herrera-08ba44272
   - [Movie List App](https://github.com/ChrisH914/MovieBuffsFinal)</b>
 - <b>C# (.NET Desktop Applications)</b>
   - [Book Management System)](https://github.com/ChrisH914/BookSystemFinal)
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="ChristopherHerrera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ChristopherHerrera | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-[instagram]: https://www.instagram.com/christopher4368/
-[linkedin]: www.linkedin.com/in/christopher-herrera-08ba44272
+ 
 
 
 <h2>🔭 I’m currently working on ...</h2>
@@ -35,6 +28,18 @@ christopher-herrera-08ba44272
 <h2>⚡ Fun fact:</h2>
         <p>I have taken a tour at SpaceX and saw the falcon 9 spaceship in person!</p>
     </div>
+
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="ChristopherHerrera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ChristopherHerrera | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/christopher4368/
+[linkedin]: www.linkedin.com/in/christopher-herrera-08ba44272
+
 <footer>
         © 2025 Christopher Herrera | Built with ❤️ and HTML
 </footer>
