@@ -39,7 +39,7 @@
 
 
 <footer>
- © 2025 Christopher Herrera | Built with ❤️ and HTML
+ © 2025 Christopher Herrera |
 </footer>
 </body>
 </html>
