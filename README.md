@@ -1,4 +1,4 @@
-<h1>Hi, I'm Christopher! <br/><a href="https://github.com/ChrisH914">Computer Information Systems Major</a> and<a href="www.linkedin.com/in/christopher-herrera-08ba44272"> Technology Enthusiast</a></h1>
+<h1>Hi, I'm Christopher! <br/><a href="https://github.com/ChrisH914">Computer Information Systems Major</a> and<a href="www.linkedin.com/in/christopherh914"> Technology Enthusiast</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -33,13 +33,13 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="ChristopherHerrera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ChristopherHerrera | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/christopher4368/
-[linkedin]: www.linkedin.com/in/christopher-herrera-08ba44272
+[linkedin]: www.linkedin.com/in/christopherh914
+
+
 
 <footer>
-        © 2025 Christopher Herrera | Built with ❤️ and HTML
+ © 2025 Christopher Herrera | Built with ❤️ and HTML
 </footer>
 </body>
 </html>
